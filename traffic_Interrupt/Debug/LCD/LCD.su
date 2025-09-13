@@ -1,0 +1,9 @@
+../LCD/LCD.c:25:6:delay	24	static
+../LCD/LCD.c:39:6:send_to_lcd	16	static
+../LCD/LCD.c:56:6:lcd_send_cmd	24	static
+../LCD/LCD.c:69:6:lcd_send_data	24	static
+../LCD/LCD.c:82:6:lcd_clear	8	static
+../LCD/LCD.c:88:6:lcd_put_cur	16	static
+../LCD/LCD.c:103:6:lcd_clear_row	24	static
+../LCD/LCD.c:113:6:lcd_init	8	static
+../LCD/LCD.c:125:6:lcd_send_string	16	static
